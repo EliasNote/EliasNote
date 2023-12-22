@@ -15,4 +15,4 @@
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EliasNote&theme=transparent&bg_color=000&border_color=ffffff&show_icons=true&icon_color=1246AB&title_color=1246AB&text_color=FFF)
 ## Portfólio Websites
-[![Portfólio](https://img.shields.io/badge/Portfólio-100000?style=for-the-badge&logoColor=white)](https://eliassudan.com.br)
+[![Portfólio](https://img.shields.io/badge/Portfólio-100000?style=for-the-badge&logoColor=white)](https://eliassudan.com.br){:target="_blank"}
