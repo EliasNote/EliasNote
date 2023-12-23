@@ -16,3 +16,4 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EliasNote&theme=transparent&bg_color=000&border_color=ffffff&show_icons=true&icon_color=1246AB&title_color=1246AB&text_color=FFF)
 ## Portfólio Websites Wordpress
 [![Portfólio](https://img.shields.io/badge/Portfólio-100000?style=for-the-badge&logoColor=white)](https://eliassudan.com.br)
+![Snake animation](https://github.com/EliasNote/EliasNote/blob/output/github-contribution-grid-snake.svg)
