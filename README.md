@@ -64,7 +64,7 @@
  <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width=50px;>
  <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width=50px;>
 </div>
-<br><br><br><br>
+<br><br><br>
 
 <h2> GitHub Stats </h2>
 
