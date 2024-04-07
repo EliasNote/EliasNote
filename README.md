@@ -50,14 +50,14 @@
  <img src="https://i.pinimg.com/originals/39/3d/c6/393dc67bfedcfad62a1ae4c2dd83cbbd.gif" align="right" />
 </div>
 <div><br><br><br><br>
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+ &nbsp; &nbsp; &nbsp; &nbsp;
  <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=50px;>
  <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=50px;>
  <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=50px;>
  <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=50px;>
  <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=50px;>
  <br>
- &nbsp; &nbsp; &nbsp;
+ &nbsp; &nbsp;
  <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width=50px;>
  <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=50px;>
  <img src ="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" width=50px;>
