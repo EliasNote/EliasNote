@@ -49,7 +49,7 @@
 <div>
  <img src="https://i.pinimg.com/originals/39/3d/c6/393dc67bfedcfad62a1ae4c2dd83cbbd.gif" align="right" />
 </div>
-<div><br><br><br><br>
+<div><br><br><br><br><br>
  &nbsp; &nbsp; &nbsp; &nbsp;
  <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=50px;>
  <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=50px;>
@@ -64,7 +64,7 @@
  <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width=50px;>
  <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width=50px;>
 </div>
-<br><br><br>
+<br><br><br><br>
 
 <h2> GitHub Stats </h2>
 
