@@ -21,7 +21,7 @@
 <br>
 <li><b>Hobbys</b>: Programar, Basquete, Ler, Correr</li>
 <br>
-<li><b>Games</b>: Counter Strike, Kerbal Space Program, Factorio, Correr</li>
+<li><b>Games</b>: Counter Strike, Kerbal Space Program, Factorio</li>
 <br>
 <li><b>Top Movie</b>: Interstellar</li>
 <br>
