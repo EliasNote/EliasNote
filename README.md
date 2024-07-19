@@ -61,7 +61,7 @@
  <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width=50px;>
  <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=50px;>
  <img src ="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" width=50px;>
- <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width=50px;>
+ <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width=50px;>
  <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width=50px;>
 </div>
 <br><br><br><br>
