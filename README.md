@@ -4,30 +4,41 @@
 
 <h2> Sobre mim </h2>
 
+```Java
+import java.util.List;
 
-
-
-
-
-
-
-
-<div>
- <img src="https://i.pinimg.com/originals/0e/bb/9c/0ebb9c2d1a9af047ef120ff8bb606cc9.gif" align="right" />
-</div>
-<li><b>Nome</b>: Elias<br></li>
-<br>
-<li><b>Área</b>: Back-end</li>
-<br>
-<li><b>Hobbys</b>: Programar, Basquete, Ler, Correr</li>
-<br>
-<li><b>Games</b>: Counter Strike, Kerbal Space Program, Factorio</li>
-<br>
-<li><b>Top Movie</b>: Interstellar</li>
-<br>
-<li><b>Top Music</b>: Sweaters - Ivan B</li>
-<br><br><br><br><br><br><br><br><br><br><br><br>
-
+public class Programador {
+    
+    public String nome = "Elias";
+    
+    public String area = "Back-end";
+    
+    public List<String> topTecnologias = List.of(
+                                            "Java", 
+                                            "Spring Boot",
+                                            "Spring Webflux",
+                                            "Python"
+                                        );
+    
+    public List<String> hobbys = List.of(
+                                    "Programar", 
+                                    "Basquete", 
+                                    "Ler", 
+                                    "Correr"
+                                );
+    
+    public List<String> games = List.of(
+                                    "Counter Strike", 
+                                    "Kerbal Space Program", 
+                                    "Factorio"
+                                );
+    
+    public String topMovie = "Interstellar";
+    
+    public String topMusic = "Sweaters - Ivan B";
+    
+}
+```
 
 
 <h2> Contato </h2>
@@ -38,10 +49,7 @@
  <a href="mailto:elias.coder1@gmail.com"><img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail"></a>
  &nbsp;&nbsp;
  <a href="https://www.instagram.com/estodante/"><img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram"></a>
- &nbsp;&nbsp;
- <a href="https://twitter.com/note_coder_"><img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter"></a>
 </div>
-
 
 
 <h2> Habilidades e Ferramentas</h2>
@@ -70,9 +78,3 @@
 
 <img src="https://media.tenor.com/c6YiNkNxifgAAAAj/ghost.gif.gif" align="right">
 <img src="https://github-readme-stats.vercel.app/api?username=EliasNote&theme=transparent&bg_color=000&border_color=ffffff&show_icons=true&icon_color=1246AB&title_color=1246AB&text_color=FFF" width=550px;>
-
-
-
-<h2> Portfólio Websites Wordpress </h2>
-
-<a href="https://eliassudan.com.br"><img src="https://img.shields.io/badge/Portfólio-100000?style=for-the-badge&logoColor=white"></a>
